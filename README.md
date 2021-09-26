@@ -12,5 +12,5 @@ To run the game, you need to add the file "acm.jar" to your IDE's classpath.
 
 I started this project in my high school computer science class. 
 I was given a shell program with methods that enabled the user to move the paddle with their mouse and 
-specified how the ball interacted with paddle. I coded all the other on-screen objects and their interactions
-with the ball
+specified how the ball interacted with paddle. I added all the other on-screen objects and the scoring system to make
+it a functional, entertaining game.
