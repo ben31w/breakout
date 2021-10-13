@@ -8,6 +8,6 @@ You can miss the ball twice, but on the third miss, it's game over.
 The ball will bounce off the bricks in different directions depending on where it collides. If the ball destroys 
 multiple bricks in a row before hitting the paddle, you'll gain bonus points for racking up a combo.
 
-To run the game, you need to add the file "acm.jar" to your IDE's classpath.
+To run the game, you need to add the file ```acm.jar``` to your IDE's classpath. Running the file ```Breakout.java``` should bring up this frame, which means you're ready to begin playing.
 
 ![breakout](https://user-images.githubusercontent.com/78334282/137001255-68e4ba3a-25a0-4626-be03-cfcbdb425d76.png)
